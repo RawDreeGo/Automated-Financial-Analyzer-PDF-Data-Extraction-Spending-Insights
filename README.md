@@ -24,16 +24,19 @@ This ensures that metadata, headers, and legal footers are ignored, resulting in
 Using advanced Regular Expressions (Regex), the tool automatically classifies transactions into categories like Digital Services, Groceries, Travel, and Utilities. This mapping is robust enough to handle common merchant variations and regional descriptions.
 
 ## 📊 Visual Demonstration
-Below are examples of how the tool processes real-world data.
-(Note: Sensitive information and actual figures have been blurred/obfuscated to preserve privacy).
+The following charts illustrate the automated output of the pipeline using a structured multi-month dataset.
 
-![Time Series](images/TimeSeriesAnalysis.png)
+<p align="center">
+  <img src="TimeSeriesAnalysis.png" width="800" alt="Total Monthly Spend Evolution">
+  <br>
+  <em>Figure 1: Automated time-series analysis showing monthly spending evolution.</em>
+</p>
 
-Figure 1: Comparison between the raw PDF structure and the processed clean data.
-
-![Cathegory through Year](images/YearByCathegory.png)
-
-Figure 2: Automatic generation of spending trends and category distribution.
+<p align="center">
+  <img src="YearByCathegory.png" width="800" alt="Spending Trends by Category">
+  <br>
+  <em>Figure 2: Categorized spending trends across multiple months, identifying key consumption patterns.</em>
+</p>
 
 ## 🚀 How to Use
 Clone the repository.
