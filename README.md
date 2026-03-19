@@ -27,11 +27,11 @@ Using advanced Regular Expressions (Regex), the tool automatically classifies tr
 Below are examples of how the tool processes real-world data.
 (Note: Sensitive information and actual figures have been blurred/obfuscated to preserve privacy).
 
-[INSERT YOUR IMAGE 1 HERE: Showing the PDF vs the extracted DataFrame]
+![Time Series](images/TimeSeriesAnalysis.png)
 
 Figure 1: Comparison between the raw PDF structure and the processed clean data.
 
-[INSERT YOUR IMAGE 2 HERE: Showing the Charts/Graphs]
+![Cathegory through Year](images/YearByCathegory.png)
 
 Figure 2: Automatic generation of spending trends and category distribution.
 
