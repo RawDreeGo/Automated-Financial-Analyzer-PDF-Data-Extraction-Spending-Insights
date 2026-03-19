@@ -33,7 +33,7 @@ The following charts illustrate the automated output of the pipeline using a str
 </p>
 
 <p align="center">
-  <img src="YearByCathegory.png" width="800" alt="Spending Trends by Category">
+  <img src="YearByCategory.png" width="800" alt="Spending Trends by Category">
   <br>
   <em>Figure 2: Categorized spending trends across multiple months, identifying key consumption patterns.</em>
 </p>
